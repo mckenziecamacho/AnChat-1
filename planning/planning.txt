@@ -1,40 +1,9 @@
 AnChat
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Documentation Used:
 
-Project Description
+https://www.valentinog.com/blog/socket-react/
+(socket.io & react)
 
-AnChat is an app where users chat anonymously and the data isn't saved and is lost forever after the chat is closed
-
-User Stories
-
-As a user I want to be able to chat anonymously
-As a user I want to have my data deleted after I finish chatting
-
-Component Hierarchy
-
-Header.jsx
-Chat.jsx
-ChatBox.jsx
-Footer.jsx
-
-MVP Goals
-
-Anonymous chatting ability
-Cool css styling
-
-Stretch Goals
-
-Different chatrooms about different topics
-
-Technologies Used
-
-GitHub
-React
-Express
-Node JS
-Socket.io
-
-Wireframes
-
-![Wireframe - In-Progress](https://media.git.generalassemb.ly/user/42032/files/2de8b8fc-9717-471a-bc7d-69e8a407e8fb)
+https://www.geeksforgeeks.org/how-to-create-footer-to-stay-at-the-bottom-of-a-web-page/
+(footer)
